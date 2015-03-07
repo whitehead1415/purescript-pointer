@@ -1,0 +1,12 @@
+{
+  "name": "purescript-pointer",
+  "version": "1.0.0",
+  "description": "pointer api for touch and mouse events",
+  "author": "Michael Whitehead",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.2.1",
+    "gulp": "^3.8.11",
+    "gulp-purescript": "^0.1.2"
+  }
+}

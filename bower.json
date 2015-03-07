@@ -1,0 +1,21 @@
+{
+  "name": "pointer",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Whitehead <whitehead1415@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "purescript-signal": "*"
+  }
+
+}
+
+
